@@ -27,3 +27,19 @@
 2.1 settings.py
 
 2.2 templates
+
+
+
+
+# Evidencia
+
+
+![imagen](https://github.com/user-attachments/assets/06301eea-3144-4838-96a7-81ff2414790a)
+
+![imagen](https://github.com/user-attachments/assets/23f46a63-203f-4bcf-a88b-9addca2d0996)
+
+![imagen](https://github.com/user-attachments/assets/7237844d-cbd7-4847-a1f6-48a1f6fe2b87)
+
+![imagen](https://github.com/user-attachments/assets/529a6969-a6af-42ad-98d1-324ccb67f833)
+
+
